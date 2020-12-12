@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="Chang" version="3.0" targetId="851ca6d6e9c4421bab19d4826b61a27e" sideLength="0.120000" topDiameter="0.075000" bottomDiameter="0.075000" sideImage="Chang.Body_scaled.jpg" topImage="Chang.Top_scaled.jpg" bottomImage="Chang.Bottom_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>

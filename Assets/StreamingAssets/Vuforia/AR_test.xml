@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="3Black" size="0.060000 0.085281" />
+    <ImageTarget name="4Black" size="0.060000 0.090233" />
+    <ImageTarget name="6Red" size="0.060000 0.090233" />
+    <ImageTarget name="JokerCard" size="0.050000 0.079179" />
+    <CylinderTarget name="Chang" sideLength="0.120000"/>
+  </Tracking>
+</QCARConfig>
